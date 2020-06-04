@@ -1,0 +1,41 @@
+{
+  "name": "switch",
+  "version": "1.1.0",
+  "description": "Switch is a all new bot for discord!",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "discord": "^0.8.2",
+    "discord.js": "^12.2.0",
+    "node-fetch": "^2.6.0",
+    "dotenv": "^8.2.0",
+    "ascii-table": "^0.0.9",
+    "dogs-n-cats": "^1.2.0",
+    "random-cat": "^1.0.1",
+    "fs": "^0.0.2",
+    "common-tags": "^1.8.0",
+    "quick.db": "^7.1.1",
+    "humanize-duration": "^3.23.0",
+    "parse-ms": "^2.0.0",
+    "node-superfetch": "^0.1.10",
+    "snekfetch": "^4.0.4",
+    "superagent": "^5.2.2",
+    "random-puppy": "^1.1.0",
+    "idiotic-api": "^0.2.11",
+    "request-promise-native": "^1.0.8",
+    "canvas-constructor": "^3.2.0",
+    "canvas": "^2.6.1"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/hello-express"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "author": ""
+}
