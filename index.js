@@ -46,4 +46,4 @@ bot.on("guildCreate", guild => {
   channel.send(embed);
 });
 
-bot.login(process.env.TOKEN);
+bot.login(token);
